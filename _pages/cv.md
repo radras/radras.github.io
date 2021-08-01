@@ -11,49 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science, Leiden University, 2021 - present
+* MSc in Applied Physics, Delft University of Technology, 2019 - 2021
+* BSc in Theoretical and Experimental Physics, University of Belgrade, 2015 - 2019
+* BSc in Computer Science, Union University, 2015 - 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Quantum Software Engineer Intern, Quantum Machines, Jun. 2021 - Aug. 2021
+  * Part of the quantum libraries team
+* Software Engineer Intern, Microsoft Development Center Serbia, Aug. 2018 - Oct. 2018
+  * Part of the Havok Physics Engine team.
+* Software Engineer Intern, Maxeler Technologies, Apr. 2018 - Jun. 2018
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Python, Julia, C/C++, Java, Qiskit, Cirq, PennyLane, OpenFermion, TensorFlow, Kwant
