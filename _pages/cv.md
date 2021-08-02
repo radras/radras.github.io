@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Link to my full [CV]()
+[Link to my full CV](https://radras.github.io/files/resume.pdf)
 
 Education
 ======
