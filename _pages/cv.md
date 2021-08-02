@@ -20,13 +20,13 @@ Education
 
 Work experience
 ======
-* Quantum Software Engineer Intern, Quantum Machines, Jun. 2021 - Aug. 2021
-  * Part of the quantum libraries team
-* Student Assistant, QuTech, May. 2021 - Aug. 2021
+* Quantum Software Engineer Intern, Quantum Machines, June 2021 - Aug. 2021
+  * Part of the quantum libraries team.
+* Student Assistant, QuTech, May 2021 - Aug. 2021
   * Assisting in the maintenance and improvement of Quantum Inspire, a cloud-based quantum computing service.
 * Software Engineer Intern, Microsoft Development Center Serbia, Aug. 2018 - Oct. 2018
   * Part of the Havok Physics Engine team.
-* Software Engineer Intern, Maxeler Technologies, Apr. 2018 - Jun. 2018
+* Software Engineer Intern, Maxeler Technologies, Apr. 2018 - June 2018
   
 Skills
 ======
@@ -36,10 +36,10 @@ Honors and awards
 ======
 * TU Delft Excellence Scholarship 2019 - 2021
   * Scholarship for MSc studies at TU Delft covering tuition fees and part of the living expenses.
-* Holland Scholarship 2019-2021
+* Holland Scholarship 2019 - 2021
   * Scholarship for MSc studies at TU Delft contributing to living expenses.
 * ACM ICPC Regionals - participation
   * SEERC 2016, 2017, 2018; NWERC 2019
 * PLANCKS 2019 - 2nd place
   * International competition in theoretical physics for teams of bachelor’s and master’s students.
-* IPhO 2015 - Honourable mention
+* IPhO 2015 - Honorable mention
